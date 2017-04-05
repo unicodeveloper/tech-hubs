@@ -2,7 +2,10 @@
 
 Where are the technology hubs in Nigeria? This is a community project. Pull requests accepted and I will totally make you a collaborator—if you ask and you're not some kind of dead proud obnoxious beast.
 
-
+# Abuja
+* [Ventures Platform](http://venturesplatform.com/)
+  29 Mambilla Street, Abuja, Federal Capital Territory, Abuja.
+  
 # Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
   Emporium C, Tinapa Knowledge City, Tinapa, Adiabo, Cross River State.
