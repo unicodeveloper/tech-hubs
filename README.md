@@ -10,7 +10,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   11, Adzope Crescent, Wuse 2, Abuja
 
 * [StartPreneurs](http://startpreneurs.com.ng)
-  Bright Star Plaza, 50 Ebitu Ukiwe Street, Jabi, Abuja, Nigeria.
+  Bright Star Plaza, 50 Ebitu Ukiwe Street, Jabi, Abuja, Nigeria. AND  
   Leadway House, Plot 1061, Herbert Macaulay Way, Central Business District, Near NNPC Towers, Abuja.
 
 * [StoneBricks Hub](http://stonebrickshub.com)
