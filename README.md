@@ -91,3 +91,5 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 * [Olotu Square](http://www.olotusquare.co)
   No 1 Khana Street D-Line Port Harcourt, Rivers State
+* [SnapiLABs - Tech Innovation Hub](https://snapilabs.com)
+  Pavillon House, East West Road, Alakahia, Port-harcourt
