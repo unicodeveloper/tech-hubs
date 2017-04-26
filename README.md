@@ -74,13 +74,13 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [LeadPath Nigeria](http://leadpath.com.ng)
   70, Olonode Street, off Hughes Avenue, Alagomeji, Yaba, Lagos
 
-* [LitCaf] (https://litcaf.com)
+* [LitCaf](https://litcaf.com)
   1st Floor, E-Center, Commercial Avenue, Sabo, Yaba. Lagos
 
 * [Passion Incubator](http://passionincubator.ng)
   34 McNell Road, off Montgomery Road, Yaba, Lagos, Nigeria.
 
-* [TPX Hub] (http://www.tpxhub.com.ng)
+* [TPX Hub](http://www.tpxhub.com.ng)
   16, Alfred Olaiya Street, Off Oroleye Crescent, Opebi, Ikeja, Lagos.
 
 * [WennovationHub](http://wennovationhub.org)
