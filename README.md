@@ -24,6 +24,25 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 * [Enspire](http://enspire.org.ng)
   3rd Floor, NEPZA HQ, No. 2, Zambesi Crescent, Maitama, Abuja.
+  
+  [Aiivon Innovation Hub](https://hub.aiivon.com/)
+  167 Adetokumbo Ademola Crescent, Wuse 2, Abuja
+  
+  [Harmony Innovation Hub](http://harmonyinnovationhub.com/)
+  M.M. Alkali Street, Off 442 Crescent, Citec Villas
+  Gwarinpa, Abuja
+  
+  [Civic Innovation Lab](https://civicilab.com/)
+  50 Ademola Adetokunbo Cres, Wuse 2, Abuja
+ 
+ # Abia
+* [Innovation Growth Hub](https://ighub.com.ng/)
+ 62, Asa Road, 450211, Aba
+
+* [Rad5 tech Hub](http://rad5.com.ng/)
+ 4th Floor, 7 Factory Road by Eziukwu Junction Aba, Abia State, Nigeria
+
+
 
 # Akwa Ibom
 * [RootHub](http://www.theroothub.com)
@@ -97,6 +116,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 #  Rivers State
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
+  
+ * [Ken Saro-Wiwa Innovation Hub](http://www.kensarowiwafoundation.org/innovation_hub.php)
+24 Aggrey road, Port Harcourt, Rivers State
 
 * [Olotu Square](http://www.olotusquare.co)
   No 1 Khana Street D-Line Port Harcourt, Rivers State
