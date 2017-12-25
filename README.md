@@ -42,10 +42,6 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Rad5 tech Hub](http://rad5.com.ng/)
  4th Floor, 7 Factory Road by Eziukwu Junction Aba, Abia State, Nigeria
 
-# Anambra
-* [devamplify Hub](https://devamplify.com/)
- 1st Floor Grace and faith house, Opposite State Library, Aroma, Awka Anambra State, Nigeria
-
 # Akwa Ibom
 * [RootHub](http://www.theroothub.com)
   The RootHub, Opposite Ibom Hall, AKEES Plaza, IBB Avenue, Uyo.
@@ -53,6 +49,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Start Innovation Hub](http://starthub.com.ng)
   3rd Floor, Ibom eLibrary OCmplex, IBB Avenue, Uyo, Akwa Ibom State, Nigeria.
 
+# Anambra
+* [devamplify Hub](https://devamplify.com/)
+ 1st Floor Grace and faith house, Opposite State Library, Aroma, Awka Anambra State, Nigeria
 
 # Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
