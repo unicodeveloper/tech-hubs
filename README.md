@@ -51,6 +51,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Start Innovation Hub](http://starthub.com.ng)
   3rd Floor, Ibom eLibrary OCmplex, IBB Avenue, Uyo, Akwa Ibom State, Nigeria.
 
+# Anambra
+* [Devamplify](https://www.devamplify.com)
+  Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
+
 
 # Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
