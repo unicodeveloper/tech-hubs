@@ -56,6 +56,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
 
 
+# Anambra
+* [Devamplify Hub](https://www.devamplify.com)
+  Devamplify Hub, First Floor Grace and Faith House, Opposite State Library, Aroma Awka, Anambra State.
+
 # Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
   Emporium C, Tinapa Knowledge City, Tinapa, Adiabo, Cross River State.
