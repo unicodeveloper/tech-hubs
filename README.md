@@ -74,7 +74,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [ROAR Nigeria](http://www.unn.edu.ng)
   University of Nigeria, Nsukka, Enugu.
 
-  # Imo
+# Imo
 
 * [TechHub Africa](https://www.facebook.com/techhubafrica1)
   3, Yar'adua Drive, by Concorde Junction, off PortHarcourt Road, New Owerri, New Owerri, Owerri.
