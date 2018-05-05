@@ -89,6 +89,14 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 # Kaduna
 * [CoLab](http://colab.com.ng)
   4 Barnawa Close, Off Challawa Crescent, Barnawa, Kaduna.
+  
+  
+# Kano
+* [Di-Hub](http://di-hub.com)
+  45B Lamido Crescent, Nassarawa GRA, Kano
+  
+* [StartUp Kano Hub](http://startupkano.com)
+  Sahel Garden, StartUp Kano Hub, Beside Azman Filling station, Opposite Al-Yuma House, Maiduguri road, Kano
 
 
 # Kwara
