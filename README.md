@@ -24,17 +24,17 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 * [Enspire](http://enspire.org.ng)
   3rd Floor, NEPZA HQ, No. 2, Zambesi Crescent, Maitama, Abuja.
-  
+
   [Aiivon Innovation Hub](https://hub.aiivon.com/)
   167 Adetokumbo Ademola Crescent, Wuse 2, Abuja
-  
+
   [Harmony Innovation Hub](http://harmonyinnovationhub.com/)
   M.M. Alkali Street, Off 442 Crescent, Citec Villas
   Gwarinpa, Abuja
-  
+
   [Civic Innovation Lab](https://civicilab.com/)
   50 Ademola Adetokunbo Cres, Wuse 2, Abuja
- 
+
  # Abia
 * [Innovation Growth Hub](https://ighub.com.ng/)
  62, Asa Road, 450211, Aba
@@ -109,7 +109,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [LeadSpace](http://theleadspace.co)
   * 70 Olonode Street, off Hughes Avenue, Alagomeji, Yaba, Lagos.
   * 17 Akinsanya Street, Beside FRSC Building, Ojodu, Lagos.
-  
+
 * [LitCaf](https://litcaf.com)
   1st Floor, E-Center, Commercial Avenue, Sabo, Yaba. Lagos
 
@@ -126,6 +126,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
 
+# Ondo
+  * [Akure Tech Hub](http://www.akuretechhub.org/)
+     Akure Tech Hub, Botanical Garden, Obanla, FUTA, Akure
+
 # Oyo
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.
@@ -133,12 +137,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 #  Rivers State
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
-  
+
  * [Ken Saro-Wiwa Innovation Hub](http://www.kensarowiwafoundation.org/innovation_hub.php)
 24 Aggrey road, Port Harcourt, Rivers State
 
 * [Olotu Square](http://www.olotusquare.co)
   No 1 Khana Street D-Line Port Harcourt, Rivers State
-  
+
 * [SnapiLABs](https://snapilabs.com)
   Pavillon House, East West Road, Alakahia, Port-harcourt
