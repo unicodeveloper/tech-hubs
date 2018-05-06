@@ -6,6 +6,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Ventures Platform](http://venturesplatform.com/)
   29 Mambilla Street, Abuja, Federal Capital Territory, Abuja.
 
+* [IC7 Africa](http://instagram.com/ic7africa/)
+  18 Manzini Street, Wuse Zone 4, Abuja, Federal Capital Territory, Abuja.
+
 * [The Tangent Eco-Innovation Hub](http://ghraizi-group.com)
   11, Adzope Crescent, Wuse 2, Abuja
 
@@ -25,14 +28,14 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Enspire](http://enspire.org.ng)
   3rd Floor, NEPZA HQ, No. 2, Zambesi Crescent, Maitama, Abuja.
   
-  [Aiivon Innovation Hub](https://hub.aiivon.com/)
+* [Aiivon Innovation Hub](https://hub.aiivon.com/)
   167 Adetokumbo Ademola Crescent, Wuse 2, Abuja
   
-  [Harmony Innovation Hub](http://harmonyinnovationhub.com/)
+* [Harmony Innovation Hub](http://harmonyinnovationhub.com/)
   M.M. Alkali Street, Off 442 Crescent, Citec Villas
   Gwarinpa, Abuja
   
-  [Civic Innovation Lab](https://civicilab.com/)
+* [Civic Innovation Lab](https://civicilab.com/)
   50 Ademola Adetokunbo Cres, Wuse 2, Abuja
  
  # Abia
