@@ -103,6 +103,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Co-Creation Hub](http://cchubnigeria.com)
   6th Floor, 294 Herbert Macaulay Way, Sabo, Yaba, Lagos.
 
+* [NG_HUB](https://nghub.fb.com/)
+  8 Montgomery Road, Yaba Lagos.
+
 * [iDEA Hub](http://www.idea-nigeria.org)
   296 Herbert Macaulay Way, Sabo, Yaba Lagos State.
 
