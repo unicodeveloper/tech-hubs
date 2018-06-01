@@ -61,6 +61,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 # Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
   Emporium C, Tinapa Knowledge City, Tinapa, Adiabo, Cross River State.
+  
+* [LiftHub](http://thelifthub.org/)
+  6A, Housing Estate Road (Off Ndidem Usang Iso Road), Calabar, Cross River State.
 
 #  Delta
 
