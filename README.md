@@ -107,6 +107,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Founders Hub](http://foundershub.xyz)
   12 Onikanga Street, Ilorin, Kwara, Nigeria.
 
+* [MAL Hub](https://malhub.com.ng/)
+  House 6, Agba Dam Link Road, GRA, Ilorin.
 
 # Lagos
 * [360 Creative Hub](http://www.360creativehub.com/)
