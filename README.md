@@ -6,6 +6,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Ventures Platform](http://venturesplatform.com/)
   29 Mambilla Street, Abuja, Federal Capital Territory, Abuja.
 
+* [IC7 Africa](http://instagram.com/ic7africa/)
+  18 Manzini Street, Wuse Zone 4, Abuja, Federal Capital Territory, Abuja.
+
 * [The Tangent Eco-Innovation Hub](http://ghraizi-group.com)
   11, Adzope Crescent, Wuse 2, Abuja
 
@@ -25,16 +28,20 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Enspire](http://enspire.org.ng)
   3rd Floor, NEPZA HQ, No. 2, Zambesi Crescent, Maitama, Abuja.
 
-  [Aiivon Innovation Hub](https://hub.aiivon.com/)
+  
+* [Aiivon Innovation Hub](https://hub.aiivon.com/)
   167 Adetokumbo Ademola Crescent, Wuse 2, Abuja
-
-  [Harmony Innovation Hub](http://harmonyinnovationhub.com/)
+  
+* [Harmony Innovation Hub](http://harmonyinnovationhub.com/)
   M.M. Alkali Street, Off 442 Crescent, Citec Villas
   Gwarinpa, Abuja
-
-  [Civic Innovation Lab](https://civicilab.com/)
+  
+* [Civic Innovation Lab](https://civicilab.com/)
   50 Ademola Adetokunbo Cres, Wuse 2, Abuja
-
+  
+  [The Smart Hub](http://thesmarthub.com.ng/)
+  Suite E16, Emab Plaza, Wuse 2, Abuja
+ 
  # Abia
 * [Innovation Growth Hub](https://ighub.com.ng/)
  62, Asa Road, 450211, Aba
@@ -55,14 +62,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Devamplify](https://www.devamplify.com)
   Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
 
-
-# Anambra
-* [Devamplify Hub](https://www.devamplify.com)
-  Devamplify Hub, First Floor Grace and Faith House, Opposite State Library, Aroma Awka, Anambra State.
-
 # Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
   Emporium C, Tinapa Knowledge City, Tinapa, Adiabo, Cross River State.
+  
+* [LiftHub](http://thelifthub.org/)
+  6A, Housing Estate Road (Off Ndidem Usang Iso Road), Calabar, Cross River State.
 
 #  Delta
 
@@ -89,12 +94,22 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 # Kaduna
 * [CoLab](http://colab.com.ng)
   4 Barnawa Close, Off Challawa Crescent, Barnawa, Kaduna.
+  
+  
+# Kano
+* [Di-Hub](http://di-hub.com)
+  45B Lamido Crescent, Nassarawa GRA, Kano
+  
+* [StartUp Kano Hub](http://startupkano.com)
+  Sahel Garden, StartUp Kano Hub, Beside Azman Filling station, Opposite Al-Yuma House, Maiduguri road, Kano
 
 
 # Kwara
 * [Founders Hub](http://foundershub.xyz)
   12 Onikanga Street, Ilorin, Kwara, Nigeria.
 
+* [MAL Hub](https://malhub.com.ng/)
+  House 6, Agba Dam Link Road, GRA, Ilorin.
 
 # Lagos
 * [360 Creative Hub](http://www.360creativehub.com/)
