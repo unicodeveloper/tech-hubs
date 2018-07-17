@@ -129,6 +129,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 * [Passion Incubator](http://passionincubator.ng)
   34 McNell Road, off Montgomery Road, Yaba, Lagos, Nigeria.
+  
+* [Seedspace](https://www.seedspace.co/cities/seedspace-lagos/)
+  23 Agodogba Ave, Ikoyi, Lagos.
 
 * [TPX Hub](http://www.tpxhub.com.ng)
   16, Alfred Olaiya Street, Off Oroleye Crescent, Opebi, Ikeja, Lagos.
