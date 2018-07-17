@@ -136,6 +136,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [WennovationHub](http://wennovationhub.org)
   11a, Rev Ogunbiyi Street, off Oba Akinjobi Street, Ikeja GRA, Lagos
 
+* [NG_HUB](https://nghub.fb.com)
+  8, Montgomery Road, Yaba, Lagos, Nigeria. 
+  
+
 #  Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
