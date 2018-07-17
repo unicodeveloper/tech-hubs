@@ -78,13 +78,16 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [ROAR Nigeria](http://www.unn.edu.ng)
   University of Nigeria, Nsukka, Enugu.
 
+* [StartUp Hub](https://web.facebook.com/StartupHub-Enugu-599761490136128/?_rdc=1&_rdr)
+  34/36 Garden Avenue, Enugu 
+
 # Imo
 
 * [TechHub Africa](https://www.facebook.com/techhubafrica1)
   3, Yar'adua Drive, by Concorde Junction, off PortHarcourt Road, New Owerri, New Owerri, Owerri.
 
-* [Oluaka Institute](https://oluakaacademy.org)
-  New Owerri, Obinze.
+* [HeartLand Incubation Hub](http://heartlandincubator.com)
+  Obinze, Along Owerri-Port-harcourt Expressway,  Opposite Whitehouse Bus Stop, Owerri
 
 # Jos
 * [nHub](http://nhubnigeria.com)
@@ -136,6 +139,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [WennovationHub](http://wennovationhub.org)
   11a, Rev Ogunbiyi Street, off Oba Akinjobi Street, Ikeja GRA, Lagos
 
+* [Swift Hub](https://koworkng.com/lagos/) 
+  Bode Thomas street, Surulere 
+
 #  Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
@@ -156,3 +162,13 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   
 * [SnapiLABs](https://snapilabs.com)
   Pavillon House, East West Road, Alakahia, Port-harcourt
+
+* [KoWork Ng](https://koworkng.com/)
+  77 evo Road,Port Harcourt
+
+* [Tech Creek](https://www.techcreek.ng)
+  Rivers State ICT center,Airforce,Aba road , Port Hacourt
+
+* [Strategic Hub](https://strategichub.net)
+  Fonte House (Behind MRS) First Artillery Junction, Aba Road,Port Harcourt
+ 
