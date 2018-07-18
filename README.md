@@ -38,10 +38,13 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Civic Innovation Lab](https://civicilab.com/)
   50 Ademola Adetokunbo Cres, Wuse 2, Abuja
   
-  [The Smart Hub](http://thesmarthub.com.ng/)
+* [The Smart Hub](http://thesmarthub.com.ng/)
   Suite E16, Emab Plaza, Wuse 2, Abuja
+
+* [Box Office Hub] (https://www.boxofficeng.com)
+  Discovery Centre, 215, Ademola Adetokunbo Crescent, Wuse II, Abuja 
  
- # Abia
+# Abia
 * [Innovation Growth Hub](https://ighub.com.ng/)
  62, Asa Road, 450211, Aba
 
@@ -202,7 +205,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Silver Ark] (http://silverarkspaces.com)
   2nd Floor, 47, Iwaya Road, Onike, Yaba, Lagos
 
-* [] ()
+* [Vibranium Valley] (http://venturegardengroup.com)
+  42, Local Airport Road, Ikeja, Lagos.
 
 # Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
