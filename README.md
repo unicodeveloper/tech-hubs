@@ -60,6 +60,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 # Anambra
 * [Devamplify](https://www.devamplify.com)
   Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
+  
+# Bauchi
+* [Uplift Hub](https://uplift.ng)
+  Uplift Hub, Adajcent Admin Block, Federal Polytechnic Bauchi, Gwallameji, Bauchi 743001, Bauchi State.
 
 # Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
