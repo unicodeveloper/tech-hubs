@@ -234,3 +234,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 * [KoWorkNG] (https://koworkng.com)
   77, Evo road, Port Harcourt, Rivers State
+  
+* [Sprinthub] (https://sprinthub.com.ng/)
+  2nd Floor Pavilion Building, Happy Rollings Street, Off East-West Road, Alakahia, Obio Akpor 500102, Port Harcourt
+  
+* [Bubble Innovation Hub] (https://bubble.ng/)
+  246 Obiwali Rd, Alozo, Port Harcourt
+  
+  
+  
