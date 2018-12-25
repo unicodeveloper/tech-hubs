@@ -196,6 +196,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [SMEhub] (https://smehub.site123.me)
   51-52, Ogba-Ijaiye Road, beside UBA Bank, Ogba, Lagos
 
+* [NG_HUB](https://nghub.fb.com/)
+  8 Montgomery Rd, Sabo yaba, Lagos
+
 * [The Circumference] (http://www.thecircumference.com.ng)
   2nd Floor, TAPA House 45 Abosede Kuboye Crescent, off Imam Dauda Street, off Eric Moore Road, Surulere, Lagos State
 
