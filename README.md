@@ -142,73 +142,73 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [WennovationHub](http://wennovationhub.org)
   11a, Rev Ogunbiyi Street, off Oba Akinjobi Street, Ikeja GRA, Lagos.
 
-* [CapitalSquare] (https://capitalsqua.re)
+* [CapitalSquare](https://capitalsqua.re)
   * 2nd Floor, The Garnet Building, Lekki - Epe Express Road, 101245, Lekki, Lagos.
   * 225b Ikorodu Crescent, Dolphin Estate, Ikoyi, Lagos.
 
-* [Venia Business Hub] (http://veniabusinesshub.com)
+* [Venia Business Hub](http://veniabusinesshub.com)
   8, The Providence St, Lekki Phase I 101283, Lagos.
 
-* [Terra Kulture] (http://www.terrakulture.com)
+* [Terra Kulture](http://www.terrakulture.com)
   1376, Tiamiyu Savage St, Victoria Island, Lagos
 
-* [Cre8Space] (http://www.cre8.work)
+* [Cre8Space](http://www.cre8.work)
   6, Agoro Odiyan, Victoria Isalnd, Lagos.
 
-* [Cranium One] (http://cranium-one.com)
+* [Cranium One](http://cranium-one.com)
   1, Towry Close, Eti-Osa, Lagos.
 
-* [Seedspace Lagos] (https://www.seedspace.co/lagos-nigeria/seedspace-lagos/)
+* [Seedspace Lagos](https://www.seedspace.co/lagos-nigeria/seedspace-lagos/)
   23, Agodogba Ave, Parkview Estate, Lagos
 
-* [ReDahlia] (http://redahliaworkspaces.com)
+* [ReDahlia](http://redahliaworkspaces.com)
   43b, Emina Crescent, Toyin Street, Ikeja, Lagos
 
-* [Stranger Lagos] (https://www.strangerlagos.com)
+* [Stranger Lagos](https://www.strangerlagos.com)
   3, Hakeem Dickson Street, Lekki Phase 1, Lagos
 
-* [Workbay] (http://workbay.ng)
+* [Workbay](http://workbay.ng)
   * 3-9, Olu Koleosho Street, Off Simbiat Abiola Way, Ikeja, Lagos
   * 14A Bayo Dejonwo Street, MaryLand Estate, Lagos
   * Plot 23, Kunle Ogunba Street off Admiralty way, Lekki Phase 1, Lagos
 
-* [V8 Valley] (http://v8africa.com)
+* [V8 Valley](http://v8africa.com)
   7b, Dr S Ezekuse Close, Lekki Phase 1, Lagos
 
-* [eeSpace] (http://eespace.com.ng)
+* [eeSpace](http://eespace.com.ng)
   Cardinal Building, 3 Ijaiye Rd, Ogba, Ikeja, Lagos
 
-* [A1 Spaces] (http://a1-spaces.com)
+* [A1 Spaces](http://a1-spaces.com)
   Suite 203E, City Hall, Catholic Mission Street, Lagos
 
-* [The Lighthouse] (http://thelighthouse.com.ng)
+* [The Lighthouse](http://thelighthouse.com.ng)
   35, moloney street, obalende, Lagos Island, Lagos
 
-* [WorkStation] (http://www.workstationng.com)
+* [WorkStation](http://www.workstationng.com)
   7, Ibiyinka Olorunbe Close, Victoria Island, Lagos
 
-* [Smart X Business Hub] (https://smartxbusinesshub.com)
+* [Smart X Business Hub](https://smartxbusinesshub.com)
   16B, Mobolaji Bank Anthony Way, Behind Keystone Bank, Maryland, Lagos
 
-* [African Hub] (http://africanhub.co)
+* [African Hub](http://africanhub.co)
   4, Sule Abuka Street, Opebi, Lagos
 
-* [SMEhub] (https://smehub.site123.me)
+* [SMEhub](https://smehub.site123.me)
   51-52, Ogba-Ijaiye Road, beside UBA Bank, Ogba, Lagos
 
-* [The Circumference] (http://www.thecircumference.com.ng)
+* [The Circumference](http://www.thecircumference.com.ng)
   2nd Floor, TAPA House 45 Abosede Kuboye Crescent, off Imam Dauda Street, off Eric Moore Road, Surulere, Lagos State
 
-* [The Village] (http://village.ng)
+* [The Village](http://village.ng)
   371, Borno Way Spencer, Yaba, Lagos
 
-* [Fastlaunch] (http://fastlaunch.org)
+* [Fastlaunch](http://fastlaunch.org)
   9B, Adedotun Dina Crescent, Mende, Maryland, Lagos
 
-* [Silver Ark] (http://silverarkspaces.com)
+* [Silver Ark](http://silverarkspaces.com)
   2nd Floor, 47, Iwaya Road, Onike, Yaba, Lagos
 
-* [Vibranium Valley] (http://venturegardengroup.com)
+* [Vibranium Valley](http://venturegardengroup.com)
   42, Local Airport Road, Ikeja, Lagos.
 
 # Ogun
@@ -232,5 +232,5 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [SnapiLABs](https://snapilabs.com)
   Pavillon House, East West Road, Alakahia, Port-harcourt
 
-* [KoWorkNG] (https://koworkng.com)
+* [KoWorkNG](https://koworkng.com)
   77, Evo road, Port Harcourt, Rivers State
