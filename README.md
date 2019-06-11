@@ -2,7 +2,43 @@
 
 Where are the technology hubs in Nigeria? This is a community project. Pull requests accepted and I will totally make you a collaborator—if you ask and you're not some kind of dead proud obnoxious beast.
 
-# Abuja
+# Quick Links
+• [Abuja](https://github.com/vague369/tech-hubs#abuja)
+
+• [Abia](https://github.com/vague369/tech-hubs#abia)
+
+• [Akwa Ibom](https://github.com/vague369/tech-hubs/blob/master/README.md#akwa-ibom)
+
+• [Anambra](https://github.com/vague369/tech-hubs/blob/master/README.md#anambra)
+
+• [Cross River](https://github.com/vague369/tech-hubs/blob/master/README.md#cross-river)
+
+• [Delta](https://github.com/vague369/tech-hubs/blob/master/README.md#delta)
+
+• [Enugu](https://github.com/vague369/tech-hubs/blob/master/README.md#enugu)
+
+
+• [Imo](https://github.com/vague369/tech-hubs/blob/master/README.md#imo)
+
+• [Jos](https://github.com/vague369/tech-hubs/blob/master/README.md#jos)
+
+• [Kaduna](https://github.com/vague369/tech-hubs/blob/master/README.md#kaduna)
+
+• [Kano](https://github.com/vague369/tech-hubs/blob/master/README.md#kano)
+
+• [Kwara](https://github.com/vague369/tech-hubs/blob/master/README.md#kwara)
+
+• [Lagos](https://github.com/vague369/tech-hubs/blob/master/README.md#lagos)
+
+• [Ogun](https://github.com/vague369/tech-hubs/blob/master/README.md#ogun)
+
+• [Oyo](https://github.com/vague369/tech-hubs/blob/master/README.md#oyo)
+
+• [Rivers State](https://github.com/vague369/tech-hubs/blob/master/README.md#rivers-state)
+
+
+
+## Abuja
 * [Ventures Platform](http://venturesplatform.com/)
   29 Mambilla Street, Abuja, Federal Capital Territory, Abuja.
 
@@ -44,7 +80,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Box Office Hub] (https://www.boxofficeng.com)
   Discovery Centre, 215, Ademola Adetokunbo Crescent, Wuse II, Abuja 
  
-# Abia
+## Abia
 * [Innovation Growth Hub](https://ighub.com.ng/)
  62, Asa Road, 450211, Aba
 
@@ -53,35 +89,35 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 
 
-# Akwa Ibom
+## Akwa Ibom
 * [RootHub](http://www.theroothub.com)
   The RootHub, Opposite Ibom Hall, AKEES Plaza, IBB Avenue, Uyo.
 
 * [Start Innovation Hub](http://starthub.com.ng)
   3rd Floor, Ibom eLibrary OCmplex, IBB Avenue, Uyo, Akwa Ibom State, Nigeria.
 
-# Anambra
+## Anambra
 * [Devamplify](https://www.devamplify.com)
   Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
 
-# Cross River
+## Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
   Emporium C, Tinapa Knowledge City, Tinapa, Adiabo, Cross River State.
   
 * [LiftHub](http://thelifthub.org/)
   6A, Housing Estate Road (Off Ndidem Usang Iso Road), Calabar, Cross River State.
 
-#  Delta
+## Delta
 
 * [DS-iHub](http://dsihub.org.ng)
   No 1, DBS Junction Okpanam Road, Besides Zenith Bank, Asaba
 
-#  Enugu
+## Enugu
 
 * [ROAR Nigeria](http://www.unn.edu.ng)
   University of Nigeria, Nsukka, Enugu.
 
-# Imo
+## Imo
 
 * [TechHub Africa](https://www.facebook.com/techhubafrica1)
   3, Yar'adua Drive, by Concorde Junction, off PortHarcourt Road, New Owerri, New Owerri, Owerri.
@@ -89,16 +125,16 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Oluaka Institute](https://oluakaacademy.org)
   New Owerri, Obinze.
 
-# Jos
+## Jos
 * [nHub](http://nhubnigeria.com)
   3rd Floor, TAEN Business Complex, Opposite former NITEL Office, Yakubu Gowon Way, Jos.
 
-# Kaduna
+## Kaduna
 * [CoLab](http://colab.com.ng)
   4 Barnawa Close, Off Challawa Crescent, Barnawa, Kaduna.
   
   
-# Kano
+## Kano
 * [Di-Hub](http://di-hub.com)
   45B Lamido Crescent, Nassarawa GRA, Kano
   
@@ -106,14 +142,14 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   Sahel Garden, StartUp Kano Hub, Beside Azman Filling station, Opposite Al-Yuma House, Maiduguri road, Kano
 
 
-# Kwara
+## Kwara
 * [Founders Hub](http://foundershub.xyz)
   12 Onikanga Street, Ilorin, Kwara, Nigeria.
 
 * [MAL Hub](https://malhub.com.ng/)
   House 6, Agba Dam Link Road, GRA, Ilorin.
 
-# Lagos
+## Lagos
 * [360 Creative Hub](http://www.360creativehub.com/)
   34 Ajao Rd off Olufemi Str. off Ogunlana drive Surulere, Lagos.
 
@@ -211,15 +247,15 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Vibranium Valley] (http://venturegardengroup.com)
   42, Local Airport Road, Ikeja, Lagos.
 
-# Ogun
+## Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
 
-# Oyo
+## Oyo
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.
 
-#  Rivers State
+## Rivers State
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
   
