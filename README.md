@@ -3,38 +3,37 @@
 Where are the technology hubs in Nigeria? This is a community project. Pull requests accepted and I will totally make you a collaborator—if you ask and you're not some kind of dead proud obnoxious beast.
 
 # Quick Links
-• [Abuja](https://github.com/vague369/tech-hubs#abuja)
+• [Abuja](https://github.com/unicodeveloper/tech-hubs#abuja)
 
-• [Abia](https://github.com/vague369/tech-hubs#abia)
+• [Abia](https://github.com/unicodeveloper/tech-hubs#abia)
 
-• [Akwa Ibom](https://github.com/vague369/tech-hubs/blob/master/README.md#akwa-ibom)
+• [Akwa Ibom](https://github.com/unicodeveloper/tech-hubs#akwa-ibom)
 
-• [Anambra](https://github.com/vague369/tech-hubs/blob/master/README.md#anambra)
+• [Anambra](https://github.com/unicodeveloper/tech-hubs#anambra)
 
-• [Cross River](https://github.com/vague369/tech-hubs/blob/master/README.md#cross-river)
+• [Cross River](https://github.com/unicodeveloper/tech-hubs#cross-river)
 
-• [Delta](https://github.com/vague369/tech-hubs/blob/master/README.md#delta)
+• [Delta](https://github.com/unicodeveloper/tech-hubs#delta)
 
-• [Enugu](https://github.com/vague369/tech-hubs/blob/master/README.md#enugu)
+• [Enugu](https://github.com/unicodeveloper/tech-hubs#enugu)
 
+• [Imo](https://github.com/unicodeveloper/tech-hubs#imo)
 
-• [Imo](https://github.com/vague369/tech-hubs/blob/master/README.md#imo)
+• [Jos](https://github.com/unicodeveloper/tech-hubs#jos)
 
-• [Jos](https://github.com/vague369/tech-hubs/blob/master/README.md#jos)
+• [Kaduna](https://github.com/unicodeveloper/tech-hubs#kaduna)
 
-• [Kaduna](https://github.com/vague369/tech-hubs/blob/master/README.md#kaduna)
+• [Kano](https://github.com/unicodeveloper/tech-hubs#kano)
 
-• [Kano](https://github.com/vague369/tech-hubs/blob/master/README.md#kano)
+• [Kwara](https://github.com/unicodeveloper/tech-hubs#kwara)
 
-• [Kwara](https://github.com/vague369/tech-hubs/blob/master/README.md#kwara)
+• [Lagos](https://github.com/unicodeveloper/tech-hubs#lagos)
 
-• [Lagos](https://github.com/vague369/tech-hubs/blob/master/README.md#lagos)
+• [Ogun](https://github.com/unicodeveloper/tech-hubs#ogun)
 
-• [Ogun](https://github.com/vague369/tech-hubs/blob/master/README.md#ogun)
+• [Oyo](https://github.com/unicodeveloper/tech-hubs#oyo)
 
-• [Oyo](https://github.com/vague369/tech-hubs/blob/master/README.md#oyo)
-
-• [Rivers State](https://github.com/vague369/tech-hubs/blob/master/README.md#rivers-state)
+• [Rivers State](https://github.com/unicodeveloper/tech-hubs#rivers-state)
 
 
 
