@@ -267,5 +267,5 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [SnapiLABs](https://snapilabs.com)
   Pavillon House, East West Road, Alakahia, Port-harcourt
 
-* [KoWorkNG] (https://koworkng.com)
+* [KoWorkNG](https://koworkng.com)
   77, Evo road, Port Harcourt, Rivers State
