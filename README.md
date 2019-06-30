@@ -246,6 +246,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Vibranium Valley](http://venturegardengroup.com)
   42, Local Airport Road, Ikeja, Lagos.
 
+* [Vatebra Tech Hub](http://techhub.vatebra.com)
+  Royal Office Building, 4th floor, KM 25 Lekki Epe Express way. Ajiwe, Opp Fidelity Bank, Ajah.
+
 ## Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
