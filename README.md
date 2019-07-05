@@ -83,6 +83,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Innovation Growth Hub](https://ighub.com.ng/)
  62, Asa Road, 450211, Aba
 
+ * [LearnFactory Nigeria](http://learnfactory.com.ng/)
+44B Aba-Owerri Road, Behind MTN Building
+Umugasi Aba, Abia
+
 * [Rad5 tech Hub](http://rad5.com.ng/)
  4th Floor, 7 Factory Road by Eziukwu Junction Aba, Abia State, Nigeria
 
