@@ -271,8 +271,8 @@ Umugasi Aba, Abia
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
   
- * [Ken Saro-Wiwa Innovation Hub](http://www.kensarowiwafoundation.org/innovation_hub.php)
-24 Aggrey road, Port Harcourt, Rivers State
+* [Ken Saro-Wiwa Innovation Hub](http://www.kensarowiwafoundation.org/innovation_hub.php)
+  24 Aggrey road, Port Harcourt, Rivers State
 
 * [Olotu Square](http://www.olotusquare.co)
   No 1 Khana Street D-Line Port Harcourt, Rivers State
@@ -283,6 +283,18 @@ Umugasi Aba, Abia
 * [KoWorkNG](https://koworkng.com)
   77, Evo road, Port Harcourt, Rivers State
 
-# Osun State
+* [Sprint Hub](https://web.facebook.com/pg/sprinthubb/about/?ref=page_internal) 
+  Second Floor,Pavillon House, East West Road, Alakahia, Port-harcourt
+
+* [Strategic Hub](https://strategichub.net)
+  Fonte House (Behind MRS) First Artillery Junction, Aba Road Port Harcourt
+
+* [Creative Hub](https://web.facebook.com/pg/creativehubng/about/?ref=page_internal) 
+  45 Evo Road GRA Phase 2 Port Harcourt 
+
+* [Tech Creek](https://www.techcreek.ng)
+  Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
+
+## Osun State
   *  [Elerinmosa Hub]
   33, Ire-akari Area, Erin, Osun State
