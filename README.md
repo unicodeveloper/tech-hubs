@@ -111,8 +111,12 @@ Umugasi Aba, Abia
 * [iDEA Hub](http://www.idea-nigeria.org)
   Emporium C, Tinapa Knowledge City, Tinapa, Adiabo, Cross River State.
   
-* [LiftHub](http://thelifthub.org/)
-  6A, Housing Estate Road (Off Ndidem Usang Iso Road), Calabar, Cross River State.
+* [Lift Hub](http://thelifthub.org/)
+  6A housing estate RD, off ndidem Usang ISO (Marian) Calabar, Cross River State.
+  
+* [TNX College](https://tnxcollege.com/)
+  54 ndidem Usang ISO (Marian) Calabar, Cross River State.
+
 
 ## Delta
 
