@@ -262,7 +262,10 @@ Umugasi Aba, Abia
 
 ## Oyo
 * [WennovationHub](http://wennovationhub.org)
-  3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.
+  3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.* 
+  
+  [LPI Innovation Hub](http://lpihub.net)
+  Appleton(Tech) road, University of Ibadan, Ibadan, Oyo State.
 
 ## Rivers State
 * [Focus Hub](http://focushub.net)
