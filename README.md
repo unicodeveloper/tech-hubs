@@ -191,7 +191,12 @@ Umugasi Aba, Abia
 
 * [Venia Business Hub](http://veniabusinesshub.com)
   8, The Providence St, Lekki Phase I 101283, Lagos.
-
+  
+* [NG_HUB](https://nghub.fb.com)
+  8, Montgomery Road, Yaba, Lagos, Nigeria. 
+  
+#  Ogun
+=======
 * [Terra Kulture](http://www.terrakulture.com)
   1376, Tiamiyu Savage St, Victoria Island, Lagos
 
