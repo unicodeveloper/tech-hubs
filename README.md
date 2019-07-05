@@ -279,3 +279,7 @@ Umugasi Aba, Abia
 
 * [KoWorkNG](https://koworkng.com)
   77, Evo road, Port Harcourt, Rivers State
+
+# Osun State
+  *  [Elerinmosa Hub]
+  33, Ire-akari Area, Erin, Osun State
