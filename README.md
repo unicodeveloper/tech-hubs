@@ -127,6 +127,12 @@ Umugasi Aba, Abia
 
 * [ROAR Nigeria](http://www.unn.edu.ng)
   University of Nigeria, Nsukka, Enugu.
+* [Dreams Hub](https://www.dreamshub.com/)
+  85 Ogui Rd, Achara, Enugu.
+* [Genesys Tech Hub](https://www.genesystechhub.com/)
+  Lifestyle and Golf City, KM 7 Port Harcourt - Enugu Expressway, Ugwuaji, Enugu.
+* [TechX Innovation Hub](https://www.techxihub.org.ng/)
+  56 Ezillo Ave, Independence Layout 400271, Enugu.
 
 ## Imo
 
