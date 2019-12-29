@@ -205,7 +205,7 @@ Umugasi Aba, Abia
 * [NG_HUB](https://nghub.fb.com)
   8, Montgomery Road, Yaba, Lagos, Nigeria. 
   
-#  Ogun
+#  Lagos
 =======
 * [Terra Kulture](http://www.terrakulture.com)
   1376, Tiamiyu Savage St, Victoria Island, Lagos
@@ -279,6 +279,11 @@ Umugasi Aba, Abia
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
 
+* [First Pavilion Technologies](https://firstpavitech.com/)
+  No 4, Law Castle Flat 3, Second Floor, Agboole Aro,Opposite Fidelity Bank Omida, Abeokuta.
+
+* [Rockspace Nigeria](https://rockspace.ng/)
+  No 7, Mercy Drive, Off Kuforiji Olubi, Quarry Rd, Abeokuta
 ## Oyo
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.* 
