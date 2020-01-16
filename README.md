@@ -288,8 +288,14 @@ Umugasi Aba, Abia
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.* 
   
-  [LPI Innovation Hub](http://lpihub.net)
+* [LPI Innovation Hub](http://lpihub.net)
   Appleton(Tech) road, University of Ibadan, Ibadan, Oyo State.
+
+* [Hub67](http://hub67nigeria.com)
+  N 4/636A Yemetu, Adeoyo-Oje Road, 200211, Ibadan, Oyo State.
+
+* [AimtogetHub] (http://aimtogethub.com)
+  B16, Al'barka shopping complex, Bodija. Ibadan. Oyo State.
 
 ## Rivers State
 * [Focus Hub](http://focushub.net)
