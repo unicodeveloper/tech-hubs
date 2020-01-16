@@ -294,8 +294,8 @@ Umugasi Aba, Abia
 * [Hub67](http://hub67nigeria.com)
   N 4/636A Yemetu, Adeoyo-Oje Road, 200211, Ibadan, Oyo State.
 
-* [AimtogetHub] (http://aimtogethub.com)
-  B16, Al'barka shopping complex, Bodija. Ibadan. Oyo State.
+* [AimtogetHub](http://aimtogethub.com)
+  B16, Al'barka shopping complex, Bodija. Ibadan, Oyo State.
 
 ## Rivers State
 * [Focus Hub](http://focushub.net)
