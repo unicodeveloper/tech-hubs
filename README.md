@@ -122,7 +122,7 @@ Umugasi Aba, Abia
 
 * [DS-iHub](http://dsihub.org.ng)
   No 1, DBS Junction Okpanam Road, Besides Zenith Bank, Asaba
-* [Warri Innovation Hub](https://warriinnovationhub.com)
+* [Warri Innovation Hub](https://www.warriinnovationhub.com)
   3rd floor, Isoken Plaza, Enerhen Junction, Warri.
 
 ## Enugu
