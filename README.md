@@ -133,6 +133,8 @@ Umugasi Aba, Abia
   Lifestyle and Golf City, KM 7 Port Harcourt - Enugu Expressway, Ugwuaji, Enugu.
 * [TechX Innovation Hub](https://www.techxihub.org.ng/)
   56 Ezillo Ave, Independence Layout 400271, Enugu.
+* [BinaryHills](https://binaryhills.org)
+  Suite D7 Bethel Plaza, Garden Avenue Enugu.
 
 ## Imo
 
