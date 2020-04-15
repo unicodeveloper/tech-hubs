@@ -140,6 +140,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
 
+#  Osun
+* [MicrolabACE](https://twitter.com/AceMicrolab)
+Incubation Hub, African centre of Excellence in Software engineering, Computer department, OAU, Ile-Ife, Osun State,  Nigeria
+  
 # Oyo
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.
@@ -148,8 +152,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
   
- * [Ken Saro-Wiwa Innovation Hub](http://www.kensarowiwafoundation.org/innovation_hub.php)
-24 Aggrey road, Port Harcourt, Rivers State
+* [Ken Saro-Wiwa Innovation Hub](http://www.kensarowiwafoundation.org/innovation_hub.php)
+ 24 Aggrey road, Port Harcourt, Rivers State
 
 * [Olotu Square](http://www.olotusquare.co)
   No 1 Khana Street D-Line Port Harcourt, Rivers State
