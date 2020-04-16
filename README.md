@@ -102,6 +102,11 @@ Umugasi Aba, Abia
 ## Anambra
 * [Devamplify](https://www.devamplify.com)
   Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
+
+* [Innovation Growth Hub](https://ighub.com.ng/)
+ighub, 39 New Market Rd, City Centre 434212, Onitsha
+
+
   
 # Bauchi
 * [Uplift Hub](https://uplift.ng)
@@ -206,6 +211,9 @@ Umugasi Aba, Abia
   
 * [NG_HUB](https://nghub.fb.com)
   8, Montgomery Road, Yaba, Lagos, Nigeria. 
+  
+* [Hub30](https://www.hub30.net)
+   Hub30 Coworking Space, 41 Road, G Close, No 3 Festac Town, Amuwo-Odofin, Lagos State
   
 #  Lagos
 =======
