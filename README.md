@@ -157,6 +157,9 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 * [CoLab](http://colab.com.ng)
   4 Barnawa Close, Off Challawa Crescent, Barnawa, Kaduna.
   
+* [Cloud10 Tech Hub](https://cloud10techhub.com.ng)
+  beside Mountain of Fire and Miracle Ministries, Kamazou, GRA Kamazou, Kaduna 
+  
   
 ## Kano
 * [Di-Hub](http://di-hub.com)
