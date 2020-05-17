@@ -313,7 +313,7 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.* 
   
-  [LPI Innovation Hub](http://lpihub.net)
+* [LPI Innovation Hub](http://lpihub.net)
   Appleton(Tech) road, University of Ibadan, Ibadan, Oyo State.
   
   [ALF Tech Hub](https://www.f6s.com/alftechhub)
@@ -325,6 +325,12 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
   
   [SteinServe Hub](https://steinserve.com/)
   Steinserve Campus, 2B, Aare Avenue, Opposite Foodco, New Bodija, Ibadan. Nigeria.
+
+* [Hub67](http://hub67nigeria.com)
+  N 4/636A Yemetu, Adeoyo-Oje Road, 200211, Ibadan, Oyo State.
+
+* [AimtogetHub](http://aimtogethub.com)
+  B16, Al'barka shopping complex, Bodija. Ibadan, Oyo State.
 
 ## Rivers State
 * [Focus Hub](http://focushub.net)
