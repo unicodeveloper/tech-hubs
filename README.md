@@ -29,6 +29,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Lagos](https://github.com/unicodeveloper/tech-hubs#lagos)
 
+• [Ondo](https://github.com/unicodeveloper/tech-hubs#ondo)
+
 • [Ogun](https://github.com/unicodeveloper/tech-hubs#ogun)
 
 • [Oyo](https://github.com/unicodeveloper/tech-hubs#oyo)
@@ -293,6 +295,10 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 * [Vatebra Tech Hub](http://techhub.vatebra.com)
   Royal Office Building, 4th floor, KM 25 Lekki Epe Express way. Ajiwe, Opp Fidelity Bank, Ajah.
+
+## Ondo
+* [Akure Tech Hub](https://www.akuretechhub.org/)
+  FUTA Botanical Garden, Obanla, Federal University of Technology Akure.
 
 ## Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
