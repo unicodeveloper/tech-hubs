@@ -293,6 +293,16 @@ Umugasi Aba, Abia
   
   [LPI Innovation Hub](http://lpihub.net)
   Appleton(Tech) road, University of Ibadan, Ibadan, Oyo State.
+  
+  [ALF Tech Hub](https://www.f6s.com/alftechhub)
+  Enterpreneurship Development Centre, Samonda, along Sango-UI Road, Ibadan.
+  Oyo state, Nigeria.
+  
+  [iBridge Hub](https://ibridgehub.com/)
+  110, Abeokuta Road, Off Iyaganku- Alalubosa Road, GRA 200263, Ibadan.
+  
+  [SteinServe Hub](https://steinserve.com/)
+  Steinserve Campus, 2B, Aare Avenue, Opposite Foodco, New Bodija, Ibadan. Nigeria.
 
 ## Rivers State
 * [Focus Hub](http://focushub.net)
