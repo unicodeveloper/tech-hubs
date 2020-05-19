@@ -361,5 +361,5 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
   Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
 
 ## Osun State
-  *  [Elerinmosa Hub]
-  33, Ire-akari Area, Erin, Osun State
+  * [Elerinmosa Hub](http://elerinmosaresource.com.ng)
+     33, Ire-akari Area, Erin, Osun State
