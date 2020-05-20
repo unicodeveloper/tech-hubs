@@ -96,6 +96,8 @@ Umugasi Aba, Abia
 * [Rad5 tech Hub](http://rad5.com.ng/)
  4th Floor, 7 Factory Road by Eziukwu Junction Aba, Abia State, Nigeria
 
+* [Softicu Tech Hub](https://softicuhub.org/)
+ 10, Ogoja Lane, by Okigwe Road Umuahia, Abia State, Nigeria
 
 
 ## Akwa Ibom
