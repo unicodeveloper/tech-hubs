@@ -29,6 +29,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Lagos](https://github.com/unicodeveloper/tech-hubs#lagos)
 
+• [Niger](https://github.com/unicodeveloper/tech-hubs#niger)
+
 • [Ondo](https://github.com/unicodeveloper/tech-hubs#ondo)
 
 • [Ogun](https://github.com/unicodeveloper/tech-hubs#ogun)
@@ -297,6 +299,12 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 * [Vatebra Tech Hub](http://techhub.vatebra.com)
   Royal Office Building, 4th floor, KM 25 Lekki Epe Express way. Ajiwe, Opp Fidelity Bank, Ajah.
+
+## Niger
+* [Paritie Hub](https://www.paritie.com/)
+  Suite C1, Peniel Albarka Plaza, Opp. Federal Highcourt, Minna.
+* [JDlab](https://jdlab.ng/)
+  No 7, Piggery Road, David Umaru Estate, Tunga, Minna.
 
 ## Ondo
 * [Akure Tech Hub](https://www.akuretechhub.org/)
