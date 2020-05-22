@@ -11,6 +11,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Anambra](https://github.com/unicodeveloper/tech-hubs#anambra)
 
+• [Bauchi](https://github.com/unicodeveloper/tech-hubs#bauchi)
+
 • [Cross River](https://github.com/unicodeveloper/tech-hubs#cross-river)
 
 • [Delta](https://github.com/unicodeveloper/tech-hubs#delta)
@@ -118,9 +120,9 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 
   
-# Bauchi
+## Bauchi
 * [Uplift Hub](https://uplift.ng)
-  Uplift Hub, Adajcent Admin Block, Federal Polytechnic Bauchi, Gwallameji, Bauchi 743001, Bauchi State.
+  Uplift Hub, 1st Floor Isa Yuguda House Adjacent Chartwel Hotel, Jos - Bauchi Rd, Bauchi, Nigeria
 
 ## Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
