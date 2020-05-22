@@ -190,6 +190,12 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 * [MAL Hub](https://malhub.com.ng/)
   House 6, Agba Dam Link Road, GRA, Ilorin.
 
+* [iLab](https://www.ilab.ng/)
+  4-5 Block B Upper Floor, Harmony Hub Shopping Mall, Fate Road, Ilorin, Kwara, Nigeria
+  
+* [Cirkle Labs](https://cirklelabs.com/)
+  2 Elizabeth St. Agba Road , Ilorin
+
 ## Lagos
 * [360 Creative Hub](http://www.360creativehub.com/)
   34 Ajao Rd off Olufemi Str. off Ogunlana drive Surulere, Lagos.
