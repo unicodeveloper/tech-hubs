@@ -6,6 +6,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 • [Abuja](https://github.com/unicodeveloper/tech-hubs#abuja)
 
 • [Abia](https://github.com/unicodeveloper/tech-hubs#abia)
+ 
+• [Adamawa](https://github.com/unicodeveloper/tech-hubs#adamawa)
 
 • [Akwa Ibom](https://github.com/unicodeveloper/tech-hubs#akwa-ibom)
 
@@ -103,7 +105,22 @@ Umugasi Aba, Abia
 * [Softicu Tech Hub](https://softicuhub.org/)
  10, Ogoja Lane, by Okigwe Road Umuahia, Abia State, Nigeria
 
-
+## Adamawa
+* [Northeast Hummanitarian Innovation Hub](http://www.new.northeasthub.org/)
+  No 3 Legom Close, off Kashim Ibrahim way Jimeta
+  
+* [AUN African Center for ICT Innovation & Training](http://www.aun.edu.ng/)
+  No 226, Modibboa Adama Way, Yola Town  
+  
+  
+* [NITDA RITC Yola](http://www.nitda.gov.ng/)
+  Justice Buba Ardo Road,  Inside Yola North Gov't Lodge
+  
+ * [CosmoTech Learning Hub](http://www.clc.ng/)
+  No 80 Galadima Aminu way, Jimeta Yola, Adamawa State
+  
+  
+  
 ## Akwa Ibom
 * [RootHub](http://www.theroothub.com)
   The RootHub, Opposite Ibom Hall, AKEES Plaza, IBB Avenue, Uyo.
