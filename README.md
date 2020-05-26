@@ -11,6 +11,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Anambra](https://github.com/unicodeveloper/tech-hubs#anambra)
 
+• [Bauchi](https://github.com/unicodeveloper/tech-hubs#bauchi)
+
 • [Cross River](https://github.com/unicodeveloper/tech-hubs#cross-river)
 
 • [Delta](https://github.com/unicodeveloper/tech-hubs#delta)
@@ -28,6 +30,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 • [Kwara](https://github.com/unicodeveloper/tech-hubs#kwara)
 
 • [Lagos](https://github.com/unicodeveloper/tech-hubs#lagos)
+
+• [Niger](https://github.com/unicodeveloper/tech-hubs#niger)
+
+• [Ondo](https://github.com/unicodeveloper/tech-hubs#ondo)
 
 • [Ogun](https://github.com/unicodeveloper/tech-hubs#ogun)
 
@@ -82,6 +88,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   Discovery Centre, 215, Ademola Adetokunbo Crescent, Wuse II, Abuja 
  
 ## Abia
+* [Ashpot] (https://ashpotmicrosystems.com)
+  11 Nicholas Street, off Brass Junction
+  Umubgasi Aba
+
 * [Innovation Growth Hub](https://ighub.com.ng/)
  62, Asa Road, 450211, Aba
 
@@ -92,6 +102,8 @@ Umugasi Aba, Abia
 * [Rad5 tech Hub](http://rad5.com.ng/)
  4th Floor, 7 Factory Road by Eziukwu Junction Aba, Abia State, Nigeria
 
+* [Softicu Tech Hub](https://softicuhub.org/)
+ 10, Ogoja Lane, by Okigwe Road Umuahia, Abia State, Nigeria
 
 
 ## Akwa Ibom
@@ -104,10 +116,15 @@ Umugasi Aba, Abia
 ## Anambra
 * [Devamplify](https://www.devamplify.com)
   Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
+
+* [Innovation Growth Hub](https://ighub.com.ng/)
+ighub, 39 New Market Rd, City Centre 434212, Onitsha
+
+
   
-# Bauchi
+## Bauchi
 * [Uplift Hub](https://uplift.ng)
-  Uplift Hub, Adajcent Admin Block, Federal Polytechnic Bauchi, Gwallameji, Bauchi 743001, Bauchi State.
+  Uplift Hub, 1st Floor Isa Yuguda House Adjacent Chartwel Hotel, Jos - Bauchi Rd, Bauchi, Nigeria
 
 ## Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
@@ -124,6 +141,8 @@ Umugasi Aba, Abia
 
 * [DS-iHub](http://dsihub.org.ng)
   No 1, DBS Junction Okpanam Road, Besides Zenith Bank, Asaba
+* [Warri Innovation Hub](https://www.warriinnovationhub.com)
+  3rd floor, Isoken Plaza, Enerhen Junction, Warri.
 
 ## Enugu
 
@@ -154,6 +173,9 @@ Umugasi Aba, Abia
 * [CoLab](http://colab.com.ng)
   4 Barnawa Close, Off Challawa Crescent, Barnawa, Kaduna.
   
+* [Cloud10 Tech Hub](https://cloud10techhub.com.ng)
+  beside Mountain of Fire and Miracle Ministries, Kamazou, GRA Kamazou, Kaduna 
+  
   
 ## Kano
 * [Di-Hub](http://di-hub.com)
@@ -169,6 +191,12 @@ Umugasi Aba, Abia
 
 * [MAL Hub](https://malhub.com.ng/)
   House 6, Agba Dam Link Road, GRA, Ilorin.
+
+* [iLab](https://www.ilab.ng/)
+  4-5 Block B Upper Floor, Harmony Hub Shopping Mall, Fate Road, Ilorin, Kwara, Nigeria
+  
+* [Cirkle Labs](https://cirklelabs.com/)
+  2 Elizabeth St. Agba Road , Ilorin
 
 ## Lagos
 * [360 Creative Hub](http://www.360creativehub.com/)
@@ -208,7 +236,10 @@ Umugasi Aba, Abia
   
 * [NG_HUB](https://nghub.fb.com)
   8, Montgomery Road, Yaba, Lagos, Nigeria. 
-
+  
+* [Hub30](https://www.hub30.net)
+   Hub30 Coworking Space, 41 Road, G Close, No 3 Festac Town, Amuwo-Odofin, Lagos State
+  
 * [Terra Kulture](http://www.terrakulture.com)
   1376, Tiamiyu Savage St, Victoria Island, Lagos
 
@@ -277,6 +308,16 @@ Umugasi Aba, Abia
 * [Vatebra Tech Hub](http://techhub.vatebra.com)
   Royal Office Building, 4th floor, KM 25 Lekki Epe Express way. Ajiwe, Opp Fidelity Bank, Ajah.
 
+## Niger
+* [Paritie Hub](https://www.paritie.com/)
+  Suite C1, Peniel Albarka Plaza, Opp. Federal Highcourt, Minna.
+* [JDlab](https://jdlab.ng/)
+  No 7, Piggery Road, David Umaru Estate, Tunga, Minna.
+
+## Ondo
+* [Akure Tech Hub](https://www.akuretechhub.org/)
+  FUTA Botanical Garden, Obanla, Federal University of Technology Akure.
+
 ## Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
@@ -298,8 +339,24 @@ Umugasi Aba, Abia
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.* 
   
-  [LPI Innovation Hub](http://lpihub.net)
+* [LPI Innovation Hub](http://lpihub.net)
   Appleton(Tech) road, University of Ibadan, Ibadan, Oyo State.
+  
+  [ALF Tech Hub](https://www.f6s.com/alftechhub)
+  Enterpreneurship Development Centre, Samonda, along Sango-UI Road, Ibadan.
+  Oyo state, Nigeria.
+  
+  [iBridge Hub](https://ibridgehub.com/)
+  110, Abeokuta Road, Off Iyaganku- Alalubosa Road, GRA 200263, Ibadan.
+  
+  [SteinServe Hub](https://steinserve.com/)
+  Steinserve Campus, 2B, Aare Avenue, Opposite Foodco, New Bodija, Ibadan. Nigeria.
+
+* [Hub67](http://hub67nigeria.com)
+  N 4/636A Yemetu, Adeoyo-Oje Road, 200211, Ibadan, Oyo State.
+
+* [AimtogetHub](http://aimtogethub.com)
+  B16, Al'barka shopping complex, Bodija. Ibadan, Oyo State.
 
 ## Rivers
 * [Focus Hub](http://focushub.net)
