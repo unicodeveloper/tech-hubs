@@ -37,9 +37,11 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Ogun](https://github.com/unicodeveloper/tech-hubs#ogun)
 
+• [Osun](https://github.com/unicodeveloper/tech-hubs#osun)
+
 • [Oyo](https://github.com/unicodeveloper/tech-hubs#oyo)
 
-• [Rivers State](https://github.com/unicodeveloper/tech-hubs#rivers-state)
+• [Rivers State](https://github.com/unicodeveloper/tech-hubs#rivers)
 
 
 
@@ -238,8 +240,6 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 * [Hub30](https://www.hub30.net)
    Hub30 Coworking Space, 41 Road, G Close, No 3 Festac Town, Amuwo-Odofin, Lagos State
   
-#  Lagos
-=======
 * [Terra Kulture](http://www.terrakulture.com)
   1376, Tiamiyu Savage St, Victoria Island, Lagos
 
@@ -327,6 +327,14 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 * [Rockspace Nigeria](https://rockspace.ng/)
   No 7, Mercy Drive, Off Kuforiji Olubi, Quarry Rd, Abeokuta
+  
+## Osun
+  * [MicrolabACE](https://twitter.com/AceMicrolab)
+    Incubation Hub, African centre of Excellence in Software engineering, Obafemi Awolowo University, Ile-Ife.
+
+  *  [Elerinmosa Hub]
+  33, Ire-akari Area, Erin, Osun State
+  
 ## Oyo
 * [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.* 
@@ -350,7 +358,7 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 * [AimtogetHub](http://aimtogethub.com)
   B16, Al'barka shopping complex, Bodija. Ibadan, Oyo State.
 
-## Rivers State
+## Rivers
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
   
@@ -377,7 +385,3 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 * [Tech Creek](https://www.techcreek.ng)
   Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
-
-## Osun State
-  * [Elerinmosa Hub](http://elerinmosaresource.com.ng)
-     33, Ire-akari Area, Erin, Osun State
