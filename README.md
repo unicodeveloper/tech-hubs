@@ -56,7 +56,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   11, Adzope Crescent, Wuse 2, Abuja
 
 * [StartPreneurs](http://startpreneurs.com.ng)
-  Bright Star Plaza, 50 Ebitu Ukiwe Street, Jabi, Abuja, Nigeria. AND  
+  Bright Star Plaza, 50 Ebitu Ukiwe Street, Jabi, Abuja, Nigeria. AND
   Leadway House, Plot 1061, Herbert Macaulay Way, Central Business District, Near NNPC Towers, Abuja.
 
 * [StoneBricks Hub](http://stonebrickshub.com)
@@ -70,23 +70,23 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 * [Enspire](http://enspire.org.ng)
   3rd Floor, NEPZA HQ, No. 2, Zambesi Crescent, Maitama, Abuja.
-  
+
 * [Aiivon Innovation Hub](https://hub.aiivon.com/)
   167 Adetokumbo Ademola Crescent, Wuse 2, Abuja
-  
+
 * [Harmony Innovation Hub](http://harmonyinnovationhub.com/)
   M.M. Alkali Street, Off 442 Crescent, Citec Villas
   Gwarinpa, Abuja
-  
+
 * [Civic Innovation Lab](https://civicilab.com/)
   50 Ademola Adetokunbo Cres, Wuse 2, Abuja
-  
+
 * [The Smart Hub](http://thesmarthub.com.ng/)
   Suite E16, Emab Plaza, Wuse 2, Abuja
 
 * [Box Office Hub](https://www.boxofficeng.com)
-  Discovery Centre, 215, Ademola Adetokunbo Crescent, Wuse II, Abuja 
- 
+  Discovery Centre, 215, Ademola Adetokunbo Crescent, Wuse II, Abuja
+
 ## Abia
 * [Ashpot] (https://ashpotmicrosystems.com)
   11 Nicholas Street, off Brass Junction
@@ -129,10 +129,10 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 ## Cross River
 * [iDEA Hub](http://www.idea-nigeria.org)
   Emporium C, Tinapa Knowledge City, Tinapa, Adiabo, Cross River State.
-  
+
 * [Lift Hub](http://thelifthub.org/)
   6A housing estate RD, off ndidem Usang ISO (Marian) Calabar, Cross River State.
-  
+
 * [TNX College](https://tnxcollege.com/)
   54 ndidem Usang ISO (Marian) Calabar, Cross River State.
 
@@ -180,7 +180,7 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 ## Kano
 * [Di-Hub](http://di-hub.com)
   45B Lamido Crescent, Nassarawa GRA, Kano
-  
+
 * [StartUp Kano Hub](http://startupkano.com)
   Sahel Garden, StartUp Kano Hub, Beside Azman Filling station, Opposite Al-Yuma House, Maiduguri road, Kano
 
@@ -211,13 +211,13 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 * [LeadSpace](http://theleadspace.co)
   * 70 Olonode Street, off Hughes Avenue, Alagomeji, Yaba, Lagos.
   * 17 Akinsanya Street, Beside FRSC Building, Ojodu, Lagos.
-  
+
 * [LitCaf](https://litcaf.com)
   1st Floor, E-Center, Commercial Avenue, Sabo, Yaba. Lagos
 
 * [Passion Incubator](http://passionincubator.ng)
   34 McNell Road, off Montgomery Road, Yaba, Lagos, Nigeria.
-  
+
 * [Seedspace](https://www.seedspace.co/cities/seedspace-lagos/)
   23 Agodogba Ave, Ikoyi, Lagos.
 
@@ -233,7 +233,7 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 * [Venia Business Hub](http://veniabusinesshub.com)
   8, The Providence St, Lekki Phase I 101283, Lagos.
-  
+
 * [NG_HUB](https://nghub.fb.com)
   8, Montgomery Road, Yaba, Lagos, Nigeria. 
   
@@ -327,6 +327,12 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 * [Rockspace Nigeria](https://rockspace.ng/)
   No 7, Mercy Drive, Off Kuforiji Olubi, Quarry Rd, Abeokuta
+
+* [RenownedTech Limited](https://renownedtechng.com)
+  No 1, Odems Building, Isale-Ake, Abeokuta.
+
+* [720Degree Hub](https://720degreehub.com)
+  Adun House, 85, Ijemo Agbadu Road, National Library Building, Ake, Abeokuta.
   
 ## Osun
   * [MicrolabACE](https://twitter.com/AceMicrolab)
@@ -361,27 +367,27 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 ## Rivers
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
-  
+
 * [Ken Saro-Wiwa Innovation Hub](http://www.kensarowiwafoundation.org/innovation_hub.php)
   24 Aggrey road, Port Harcourt, Rivers State
 
 * [Olotu Square](http://www.olotusquare.co)
   No 1 Khana Street D-Line Port Harcourt, Rivers State
-  
+
 * [SnapiLABs](https://snapilabs.com)
   Pavillon House, East West Road, Alakahia, Port-harcourt
 
 * [KoWorkNG](https://koworkng.com)
   77, Evo road, Port Harcourt, Rivers State
 
-* [Sprint Hub](https://web.facebook.com/pg/sprinthubb/about/?ref=page_internal) 
+* [Sprint Hub](https://web.facebook.com/pg/sprinthubb/about/?ref=page_internal)
   Second Floor,Pavillon House, East West Road, Alakahia, Port-harcourt
 
 * [Strategic Hub](https://strategichub.net)
   Fonte House (Behind MRS) First Artillery Junction, Aba Road Port Harcourt
 
-* [Creative Hub](https://web.facebook.com/pg/creativehubng/about/?ref=page_internal) 
-  45 Evo Road GRA Phase 2 Port Harcourt 
+* [Creative Hub](https://web.facebook.com/pg/creativehubng/about/?ref=page_internal)
+  45 Evo Road GRA Phase 2 Port Harcourt
 
 * [Tech Creek](https://www.techcreek.ng)
   Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
