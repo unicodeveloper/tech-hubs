@@ -90,6 +90,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   Discovery Centre, 215, Ademola Adetokunbo Crescent, Wuse II, Abuja
 
 ## Abia
+* [Abia Tech Hub](https://abiatechhub.com/)
+ 6, Warri Street, 440234, Umuahia
+
 * [Ashpot] (https://ashpotmicrosystems.com)
   11 Nicholas Street, off Brass Junction
   Umubgasi Aba
