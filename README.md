@@ -194,8 +194,10 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
   4 Barnawa Close, Off Challawa Crescent, Barnawa, Kaduna.
   
 * [Cloud10 Tech Hub](https://cloud10techhub.com.ng)
-  beside Mountain of Fire and Miracle Ministries, Kamazou, GRA Kamazou, Kaduna 
-  
+  beside Mountain of Fire and Miracle Ministries, Kamazou, GRA Kamazou, Kaduna. 
+
+* [Lexington Hub](https://lexingtonhub.com.ng/)
+  No 3 Dr Yahaya Hamza Street, Ungwan Rimi, Kaduna.
   
 ## Kano
 * [Di-Hub](http://di-hub.com)
