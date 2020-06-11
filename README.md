@@ -198,6 +198,9 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 
 * [Lexington Hub](https://lexingtonhub.com.ng/)
   No 3 Dr Yahaya Hamza Street, Ungwan Rimi, Kaduna.
+ 
+* [KAD ICT HUB](https://twitter.com/kadhub)
+  47, Kanta Road, off Independence Way, City Centre, Kaduna.
   
 ## Kano
 * [Di-Hub](http://di-hub.com)
