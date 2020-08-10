@@ -168,12 +168,16 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [ROAR Nigeria](http://www.unn.edu.ng)
   University of Nigeria, Nsukka, Enugu.
+
 - [Dreams Hub](https://www.dreamshub.com/)
   85 Ogui Rd, Achara, Enugu.
+
 - [Genesys Tech Hub](https://www.genesystechhub.com/)
   Lifestyle and Golf City, KM 7 Port Harcourt - Enugu Expressway, Ugwuaji, Enugu.
+
 - [TechX Innovation Hub](https://www.techxihub.org.ng/)
   56 Ezillo Ave, Independence Layout 400271, Enugu.
+  
 - [BinaryHills](https://binaryhills.org)
   Suite D7 Bethel Plaza, Garden Avenue Enugu.
 
@@ -428,6 +432,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Strategic Hub](https://strategichub.net)
   Fonte House (Behind MRS) First Artillery Junction, Aba Road Port Harcourt
+  
+- [Hub10](https://www.hubten.net/)
+  5 Chief Ehule Lane, Off Ada George, Port Harcourt
 
 - [Creative Hub](https://web.facebook.com/pg/creativehubng/about/?ref=page_internal)
   45 Evo Road GRA Phase 2 Port Harcourt
