@@ -177,7 +177,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [TechX Innovation Hub](https://www.techxihub.org.ng/)
   56 Ezillo Ave, Independence Layout 400271, Enugu.
-  
+
 - [BinaryHills](https://binaryhills.org)
   Suite D7 Bethel Plaza, Garden Avenue Enugu.
 
@@ -378,7 +378,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [MicrolabACE](https://twitter.com/AceMicrolab)
   Incubation Hub, African centre of Excellence in Software engineering, Obafemi Awolowo University, Ile-Ife.
 
-- [Elerinmosa Hub]
+- [Elerinmosa Hub](http://www.elerinmosaresource.com.ng/)
   33, Ire-akari Area, Erin, Osun State
 
 ## Oyo
