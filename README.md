@@ -193,6 +193,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [nHub](http://nhubnigeria.com)
   3rd Floor, TAEN Business Complex, Opposite former NITEL Office, Yakubu Gowon Way, Jos.
+- [Govirtual Africa](https://govirtualafrica.com)
+	Opposite Steel Rollin Mill Quarters, Rayfield, Jos
 
 ## Kaduna
 
