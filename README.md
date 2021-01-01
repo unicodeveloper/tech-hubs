@@ -217,6 +217,15 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [StartUp Kano Hub](http://startupkano.com)
    Sahel Garden, StartUp Kano Hub, Beside Azman Filling station, Opposite Al-Yuma House, Maiduguri road, Kano
+   
+- [Shamrock Innovations](http://shamrockinnovations.com.ng/)
+   No 35 Lamido Road, Nasarawa G.R.A, Kano, Kano State
+   
+- [DD Hub](https://ddhub.org.ng/)
+   No 32B, Zoo Road, Opposite Al-Hamsad tower, Ado Bayero Mall, Kano state, Nigeria.
+
+- [Blue Sapphire Hub](http://bsapphireng.com/)
+   No 231 ABH street, Sharada Along Industrial Area,Opposite Hisbah Zonal Board. Kano State, Nigeria.
 
 ## Kwara
 
