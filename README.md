@@ -381,6 +381,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [720Degree Hub](https://720degreehub.com)
   Adun House, 85, Ijemo Agbadu Road, National Library Building, Ake, Abeokuta.
 
+- [Ogun TechHub](https://oguntechhub.com.ng/)
+  Opposite High Court Kobape Abeokuta.
+
 ## Osun
 
 - [MicrolabACE](https://twitter.com/AceMicrolab)
