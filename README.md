@@ -400,14 +400,14 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [LPI Innovation Hub](http://lpihub.net)
   Appleton(Tech) road, University of Ibadan, Ibadan, Oyo State.
 
-  [ALF Tech Hub](https://www.f6s.com/alftechhub)
+- [ALF Tech Hub](https://www.f6s.com/alftechhub)
   Enterpreneurship Development Centre, Samonda, along Sango-UI Road, Ibadan.
   Oyo state, Nigeria.
 
-  [iBridge Hub](https://ibridgehub.com/)
+- [iBridge Hub](https://ibridgehub.com/)
   110, Abeokuta Road, Off Iyaganku- Alalubosa Road, GRA 200263, Ibadan.
 
-  [SteinServe Hub](https://steinserve.com/)
+- [SteinServe Hub](https://steinserve.com/)
   Steinserve Campus, 2B, Aare Avenue, Opposite Foodco, New Bodija, Ibadan. Nigeria.
 
 - [Hub67](http://hub67nigeria.com)
@@ -420,6 +420,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   No 91 Sango-Ojoo Road, Opposite UI Conference Center , Ibadan , Oyo State , Nigeria.
 
 - [Stargate Workstation](https://stargateworkstation.com/) 9th Floor, Cocoa House Oba Adebimpe Road Dugbe, Ibadan, Oyo State
+
+- [NitroLabs](http://nitrolabs.com.ng/)
+  S57, Seejet Plaza, Opposite Alata Milk and Honey Restaurant, Under G, Ogbomoso, Oyo State.
 
 ## Rivers
 
