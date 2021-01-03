@@ -227,6 +227,15 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Blue Sapphire Hub](http://bsapphireng.com/)
    No 231 ABH street, Sharada Along Industrial Area,Opposite Hisbah Zonal Board. Kano State, Nigeria.
 
+  ## Kogi
+
+- [GitTech Hub](https://gitechconsults.github.io/gitechonline.com.ng/)
+   No.6B,Salihu Ibrahim Road, Along Government House,Lokoja,Kogi State.
+
+- [MentorBox Hub](https://mentorbox.ng/)
+  Suite 19&25, Zabham plaza beside Kogi Amusement Park, along NUJ road, Lokoja.
+
+
 ## Kwara
 
 - [Founders Hub](http://foundershub.xyz)
