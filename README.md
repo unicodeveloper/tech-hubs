@@ -30,6 +30,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Kano](https://github.com/unicodeveloper/tech-hubs#kano)
 
+• [Kogi](https://github.com/unicodeveloper/tech-hubs#Kogi)
+
 • [Kwara](https://github.com/unicodeveloper/tech-hubs#kwara)
 
 • [Lagos](https://github.com/unicodeveloper/tech-hubs#lagos)
