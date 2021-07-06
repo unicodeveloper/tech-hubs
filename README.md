@@ -20,6 +20,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Delta](https://github.com/unicodeveloper/tech-hubs#delta)
 
+• [Edo](https://github.com/unicodeveloper/tech-hubs#edo)
+
 • [Enugu](https://github.com/unicodeveloper/tech-hubs#enugu)
 
 • [Imo](https://github.com/unicodeveloper/tech-hubs#imo)
@@ -165,6 +167,11 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   No 1, DBS Junction Okpanam Road, Besides Zenith Bank, Asaba
 - [Warri Innovation Hub](https://www.warriinnovationhub.com)
   3rd floor, Isoken Plaza, Enerhen Junction, Warri.
+
+## Edo
+
+- [Edo Innovation Hub](https://www.edoinnovates.com)
+  59, I.C.E Road, Off Wire Road, Benin City, Edo State.
 
 ## Enugu
 
