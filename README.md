@@ -38,6 +38,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Lagos](https://github.com/unicodeveloper/tech-hubs#lagos)
 
+• [Makurdi](https://github.com/unicodeveloper/tech-hubs#makurdi)
+
 • [Niger](https://github.com/unicodeveloper/tech-hubs#niger)
 
 • [Ondo](https://github.com/unicodeveloper/tech-hubs#ondo)
@@ -373,6 +375,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Vatebra Tech Hub](http://techhub.vatebra.com)
   Royal Office Building, 4th floor, KM 25 Lekki Epe Express way. Ajiwe, Opp Fidelity Bank, Ajah.
+
+## Makurdi
+- [Aiivon Innovation Hub](https://hub.aiivon.com/)
+  Opposite College of Health Science, Gboko road, Makurdi, Benue state.
 
 ## Niger
 
