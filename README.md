@@ -193,6 +193,9 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
 * [Co-Creation Hub](http://cchubnigeria.com)
   6th Floor, 294 Herbert Macaulay Way, Sabo, Yaba, Lagos.
 
+* [Emblic Technologies](http://emblictech.com)
+  Orchard Close, Off Chevron Alternative Route, Lekki Phase 2, Lagos State.
+
 * [iDEA Hub](http://www.idea-nigeria.org)
   296 Herbert Macaulay Way, Sabo, Yaba Lagos State.
 
@@ -335,6 +338,9 @@ ighub, 39 New Market Rd, City Centre 434212, Onitsha
   B16, Al'barka shopping complex, Bodija. Ibadan, Oyo State.
 
 ## Rivers State
+* [Emblic Technologies](http://emblictech.com)
+  79 Stadium Road, Opp. FIRS Office, Rumuomasi, Port Harcourt, Rivers State.
+
 * [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
   
