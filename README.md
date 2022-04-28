@@ -26,6 +26,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Imo](https://github.com/unicodeveloper/tech-hubs#imo)
 
+• [Jigawa](https://github.com/unicodeveloper/tech-hubs#jigawa)
+
 • [Jos](https://github.com/unicodeveloper/tech-hubs#jos)
 
 • [Kaduna](https://github.com/unicodeveloper/tech-hubs#kaduna)
@@ -203,7 +205,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Oluaka Institute](https://oluakaacademy.org)
   New Owerri, Obinze.
-
+  
 ## Jos
 
 - [nHub](http://nhubnigeria.com)
