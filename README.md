@@ -460,6 +460,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 ## Rivers
 
+- [Asetech Academy](http://asetech.fairexxitsolutions.com)
+  The Promenade, Tombia Extension, GRA Phase2, Port Harcourt
+
 - [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
 
