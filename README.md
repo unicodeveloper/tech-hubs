@@ -165,6 +165,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [TNX College](https://tnxcollege.com/)
   54 ndidem Usang ISO (Marian) Calabar, Cross River State.
 
+-[Nugi Technologies](https://nugitech.com)
+ 77 solomon okpa street, behind uddy King Parliamentary extention Calabar, Cross River State
+
 ## Delta
 
 - [DS-iHub](http://dsihub.org.ng)
