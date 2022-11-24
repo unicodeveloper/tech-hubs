@@ -132,6 +132,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [CosmoTech Learning Hub](http://www.clc.ng/)
   No 80 Galadima Aminu way, Jimeta Yola, Adamawa State
+  
+- [BCH HUB](Hub.bch.ng)
+  Bank Road Galadima Aminu way,Opposite Fedilty Bank  Jimeta Yola, Adamawa State
+
 
 ## Akwa Ibom
 
