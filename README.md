@@ -421,9 +421,6 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Ogun TechHub](https://oguntechhub.com.ng/)
   Opposite High Court Kobape Abeokuta.
   
-- [TheBunker](https://thebunker.services/abeokuta/)
-   125, Olusegun Osoba Way, Oke Ilewo, Abeokuta
-
 - [grazac](https://www.grazac.com.ng/)
    PROHUB, Salawu Olabode Avenue, Ewang Road, Idi-aba, 110124, Abeokuta
 ## Osun
