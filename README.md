@@ -233,6 +233,11 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [KAD ICT HUB](https://twitter.com/kadhub)
   47, Kanta Road, off Independence Way, City Centre, Kaduna.
+  
+## Katsina
+ 
+ - [KIRKIRA HUB](https://twitter.com/kirkirahub)
+  No.2 Mani Road, Mani Road, 820231, Katsina.
 
 ## Kano
 
@@ -250,6 +255,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Blue Sapphire Hub](http://bsapphireng.com/)
    No 231 ABH street, Sharada Along Industrial Area,Opposite Hisbah Zonal Board. Kano State, Nigeria.
+
+## Kebbi
+
+- [Kebbi Innovation and Tech Hub](https://kbithub.business.site/)
+   No. 11 Murtala Muhammed Express Way,opposite Central Mosque,Tudun Wada 860001,Birnin Kebbi,Nigeria.
+
 
 ## Kogi
 
@@ -492,3 +503,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Tech Creek](https://www.techcreek.ng)
   Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
+
+## Sokoto
+  
+- [Startup Sokoto](https://twitter.com/Startupsokoto)
+  Sama Road, Mabera Mujaya 840103, Sokoto
