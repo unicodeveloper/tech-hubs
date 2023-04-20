@@ -139,7 +139,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   The RootHub, Opposite Ibom Hall, AKEES Plaza, IBB Avenue, Uyo.
 
 - [Start Innovation Hub](http://starthub.com.ng)
-  3rd Floor, Ibom eLibrary OCmplex, IBB Avenue, Uyo, Akwa Ibom State, Nigeria.
+  264 Oron Road, Uyo, Akwa Ibom State, Nigeria.
 
 ## Anambra
 
