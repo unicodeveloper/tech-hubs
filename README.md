@@ -132,6 +132,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [CosmoTech Learning Hub](http://www.clc.ng/)
   No 80 Galadima Aminu way, Jimeta Yola, Adamawa State
+  
+- [BCH HUB](Hub.bch.ng)
+  Bank Road Galadima Aminu way,Opposite Fedilty Bank  Jimeta Yola, Adamawa State
+
 
 ## Akwa Ibom
 
@@ -233,6 +237,11 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [KAD ICT HUB](https://twitter.com/kadhub)
   47, Kanta Road, off Independence Way, City Centre, Kaduna.
+  
+## Katsina
+ 
+ - [KIRKIRA HUB](https://twitter.com/kirkirahub)
+  No.2 Mani Road, Mani Road, 820231, Katsina.
 
 ## Kano
 
@@ -250,6 +259,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Blue Sapphire Hub](http://bsapphireng.com/)
    No 231 ABH street, Sharada Along Industrial Area,Opposite Hisbah Zonal Board. Kano State, Nigeria.
+
+## Kebbi
+
+- [Kebbi Innovation and Tech Hub](https://kbithub.business.site/)
+   No. 11 Murtala Muhammed Express Way,opposite Central Mosque,Tudun Wada 860001,Birnin Kebbi,Nigeria.
+
 
 ## Kogi
 
@@ -385,6 +400,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Vatebra Tech Hub](http://techhub.vatebra.com)
   Royal Office Building, 4th floor, KM 25 Lekki Epe Express way. Ajiwe, Opp Fidelity Bank, Ajah.
 
+- [Zonetech Park](https://zonetechpark.co/)
+  Plot 9 Gbagada Industrial Scheme, Beside UPS, Gbagada Expressway, Lagos State.
+
 ## Makurdi
 - [Aiivon Innovation Hub](https://hub.aiivon.com/)
   Opposite College of Health Science, Gboko road, Makurdi, Benue state.
@@ -420,9 +438,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Ogun TechHub](https://oguntechhub.com.ng/)
   Opposite High Court Kobape Abeokuta.
-  
-- [grazac](https://www.grazac.com.ng/)
-   PROHUB, Salawu Olabode Avenue, Ewang Road, Idi-aba, 110124, Abeokuta
+
+- [Grazac Co-working space](https://www.grazac.com.ng/innovation)
+  Sam Ewang Housing Estate, PROHUB, Salawu Olabode Avenue, Idi-aba, Road, Abeokuta, Ogun state.
+
 ## Osun
 
 - [MicrolabACE](https://twitter.com/AceMicrolab)
@@ -494,3 +513,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Tech Creek](https://www.techcreek.ng)
   Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
+
+## Sokoto
+  
+- [Startup Sokoto](https://twitter.com/Startupsokoto)
+  Sama Road, Mabera Mujaya 840103, Sokoto
