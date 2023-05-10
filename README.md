@@ -400,6 +400,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Vatebra Tech Hub](http://techhub.vatebra.com)
   Royal Office Building, 4th floor, KM 25 Lekki Epe Express way. Ajiwe, Opp Fidelity Bank, Ajah.
 
+- [Zonetech Park](https://zonetechpark.co/)
+  Plot 9 Gbagada Industrial Scheme, Beside UPS, Gbagada Expressway, Lagos State.
+
 ## Makurdi
 - [Aiivon Innovation Hub](https://hub.aiivon.com/)
   Opposite College of Health Science, Gboko road, Makurdi, Benue state.
@@ -435,6 +438,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Ogun TechHub](https://oguntechhub.com.ng/)
   Opposite High Court Kobape Abeokuta.
+
+- [Grazac Co-working space](https://www.grazac.com.ng/innovation)
+  Sam Ewang Housing Estate, PROHUB, Salawu Olabode Avenue, Idi-aba, Road, Abeokuta, Ogun state.
 
 ## Osun
 
