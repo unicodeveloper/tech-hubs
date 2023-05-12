@@ -243,6 +243,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
  - [KIRKIRA HUB](https://twitter.com/kirkirahub)
   No.2 Mani Road, Mani Road, 820231, Katsina.
 
+- [Alpha Hub](https://technext.ng/2018/07/19/alphahub-first-hardware-innovation-hub-in-northern-nigeria-opens/)
+  31A Botswana Road, Barnawa, Kaduna.
+
 ## Kano
 
 - [Di-Hub](http://di-hub.com)
