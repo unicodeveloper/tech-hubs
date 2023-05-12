@@ -243,6 +243,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
  - [KIRKIRA HUB](https://twitter.com/kirkirahub)
   No.2 Mani Road, Mani Road, 820231, Katsina.
 
+- [Dinisoft Hub] (http://dinisoft.dev)
+  L4 Block 6, Sarkin Fulani Crescent, Rigachikun, Kaduna.
+
+
 ## Kano
 
 - [Di-Hub](http://di-hub.com)
