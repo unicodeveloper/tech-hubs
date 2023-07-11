@@ -409,6 +409,13 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Aiivon Innovation Hub](https://hub.aiivon.com/)
   Opposite College of Health Science, Gboko road, Makurdi, Benue state.
 
+
+## Nasarawa
+
+- [mTech Innovation Hub](https://www.paritie.com/)
+  Light House Resort Wamba Road, Akwanga, Nasarawa state.
+
+
 ## Niger
 
 - [Paritie Hub](https://www.paritie.com/)
