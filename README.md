@@ -412,7 +412,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 ## Nasarawa
 
-- [mTech Innovation Hub](https://www.paritie.com/)
+- [mTech Innovation Hub](https://web.facebook.com/mTechiHub/?_rdc=1&_rdr)
   Light House Resort Wamba Road, Akwanga, Nasarawa state.
 
 
