@@ -42,6 +42,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Makurdi](https://github.com/unicodeveloper/tech-hubs#makurdi)
 
+  [Nasarawa](https://github.com/unicodeveloper/tech-hubs#nasarawa)
+
 • [Niger](https://github.com/unicodeveloper/tech-hubs#niger)
 
 • [Ondo](https://github.com/unicodeveloper/tech-hubs#ondo)
