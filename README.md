@@ -239,6 +239,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [KAD ICT HUB](https://twitter.com/kadhub)
   47, Kanta Road, off Independence Way, City Centre, Kaduna.
+
+- [Alpha HUB](https://ng.africabz.com/kaduna/alpha-hub-430832)
+  31A Botswana Road, Barnawa, Kaduna.
   
 ## Katsina
  
