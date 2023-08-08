@@ -465,6 +465,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 ## Oyo
 
+- [Blockchain Innovation Hub](https://bih.com.ng)
+  Suite B3, ZamZam Office Complex, Gastab Petrol Station, New Garage, Ibadan. Oyo State
+
 - [WennovationHub](http://wennovationhub.org)
   3rd floor, Alpha & Omega Building, Queen Elizabeth Road II, Mokola, Ibadan, Oyo State.\*
 
