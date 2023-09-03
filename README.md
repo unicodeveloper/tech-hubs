@@ -500,6 +500,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 ## Rivers
 
+- [Renaissance Innovation Labs](https://renaissance.ng/)
+  7 Grace avenue, Off Kemka Street. NTA Road, Port Harcourt.
+
 - [Focus Hub](http://focushub.net)
   No 20 Tip-Top street, off Psychiatric Road, Rumuigbo, Port-Harcourt
 
