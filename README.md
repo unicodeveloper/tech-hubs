@@ -149,6 +149,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 ## Anambra
 
+- [ABIC Hub](https://www.abicng.org)
+  ABIC Hub, Iba Ajie, 25 Tasia Street by ABS Junction Onitsha, Anambra State.
+  
 - [Devamplify](https://www.devamplify.com)
   Devamplify Hub, First Floor, Grace and Faith House Opposite State Library, Aroma Awka, Anambra State.
 
