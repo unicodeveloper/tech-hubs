@@ -302,7 +302,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Co-Creation Hub](http://cchubnigeria.com)
   6th Floor, 294 Herbert Macaulay Way, Sabo, Yaba, Lagos.
 
-- [iDEA Hub](http://www.idea-nigeria.org)
+* [Emblic Technologies](http://emblictech.com)
+  Orchard Close, Off Chevron Alternative Route, Lekki Phase 2, Lagos State.
+
+* [iDEA Hub](http://www.idea-nigeria.org)
   296 Herbert Macaulay Way, Sabo, Yaba Lagos State.
 
 - [LeadSpace](http://theleadspace.co)
@@ -489,6 +492,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [AimtogetHub](http://aimtogethub.com)
   B16, Al'barka shopping complex, Bodija. Ibadan, Oyo State.
+
+
+## Rivers State
+* [Emblic Technologies](http://emblictech.com)
+  79 Stadium Road, Opp. FIRS Office, Rumuomasi, Port Harcourt, Rivers State.
+
 
 - [Build Space](https://www.buildcodetogether.com/)
   No 91 Sango-Ojoo Road, Opposite UI Conference Center , Ibadan , Oyo State , Nigeria.
